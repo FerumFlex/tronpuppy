@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+circom/
+circomlib/
+node_modules/
+tmp/
+
+forge/lib/openzeppelin-contracts/
+third_party/
+.env.nile
+mining/

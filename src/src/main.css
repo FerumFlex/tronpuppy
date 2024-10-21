@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+}
+
+#root {
+    background-image: url(/images/background.png);
+    background-size: 250px 250px;
+    height: 100%;
+    padding-top: 100px;
+}
